@@ -39,7 +39,7 @@ These case studies help refine the following SQL skills:
 
 ### Case Studies
 
-#### 1. Performance Analysis of Olympiad Exam
+#### 1. Performance Analysis of the Olympiad Exam
 
 This case study focuses on evaluating the performance of students who appeared in an Olympiad exam. The dataset includes information on student scores, participation, and rankings across different regions. Key objectives include:
 - Analyzing student performance by region and subject.
@@ -84,7 +84,7 @@ Danny’s Diner case study involves analyzing customer behavior and restaurant s
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/sql-advanced-case-study.git
+    git clone https://github.com/payalsamanta02/sql-advanced-case-study.git
     ```
 
 2. Set up the database with the datasets provided in the respective case study folders.
