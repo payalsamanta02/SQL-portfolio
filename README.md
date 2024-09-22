@@ -111,7 +111,7 @@ Contributions are welcome! If you'd like to contribute:
 If you have any questions or need further assistance, feel free to contact:
 
 - **Name**: Payal Samanta
-- **Email**: [youremail@example.com](mailto:youremail@example.com)
+- **Email**: [payalsamanta02@example.com](mailto:payalsamanta02@example.com)
 
 ---
 
